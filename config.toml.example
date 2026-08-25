@@ -1,0 +1,11 @@
+# Jira to MD Configuration
+# This file should be placed at ~/.config/jira-to-md/config.toml
+
+# The base URL of your Jira instance (including https://)
+jira_url = "https://your-domain.atlassian.net"
+
+# Your Jira login email
+jira_user = "your-email@example.com"
+
+# Your Jira API token
+jira_token = "your-api-token"

@@ -1,0 +1,4 @@
+[jira]
+url = "https://your-domain.atlassian.net"
+user = "your-email@example.com"
+token = "your-api-token"

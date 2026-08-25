@@ -1,0 +1,15 @@
+{
+  "name": "jira-to-md-pi-extensions",
+  "version": "0.1.0",
+  "description": "Pi extension exposing fetch_issue and search_issues tools for the jira-to-md CLI.",
+  "keywords": ["pi-package", "jira", "extension"],
+  "pi": {
+    "extensions": ["./pi-extensions"]
+  },
+  "scripts": {
+    "check": "biome check pi-extensions"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.10"
+  }
+}
